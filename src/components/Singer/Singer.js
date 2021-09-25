@@ -26,8 +26,6 @@ const Singer = (props) => {
                         <p><i class="fab fa-facebook-square"></i></p>
                         <p> <i class="fab fa-twitter-square"></i></p>
                     </div>
-
-
                 </div>
             </div>
 

@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Singer Team App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live site my App]https://singer-app-by-taufik.netlify.app/).
 
 ## Available Scripts
 
