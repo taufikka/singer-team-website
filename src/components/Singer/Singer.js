@@ -22,8 +22,8 @@ const Singer = (props) => {
                     <h6><strong>Salary: ${salary}</strong></h6>
                     <button onClick={() => { props.handleSinger(props.singer) }} className='btn btn-outline-dark mt-2'> {element} Add to Cart</button>
                     <div className='d-flex justify-content-evenly fs-2 mt-3 button'>
-                        <a href="https://www.facebook.com/home.php" target="_blank" rel="noreferrer"><i class="fab fa-facebook-square"></i></a>
-                        <a href="https://twitter.com/?lang=en" target="_blank" rel="noreferrer"><i class="fab fa-twitter-square"></i></a>
+                        <a href="https://www.facebook.com/home.php" target="_blank" rel="noreferrer"><i className="fab fa-facebook-square"></i></a>
+                        <a href="https://twitter.com/?lang=en" target="_blank" rel="noreferrer"><i className="fab fa-twitter-square"></i></a>
                     </div>
                 </div>
             </div>

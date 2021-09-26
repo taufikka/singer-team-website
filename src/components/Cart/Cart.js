@@ -19,7 +19,8 @@ const Cart = (props) => {
             <ul>
                 {/*  added singer name show*/}
                 {
-                    cart.map(singer => <li className='fw-bolder'> Name: {singer.name}</li>)
+                    cart.map(singer => <li className='fw-bolder' key={singer.id}>
+                        Name: {singer.name}</li>)
                 }
             </ul>
         </div>
