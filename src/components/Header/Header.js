@@ -2,6 +2,7 @@ import React from 'react';
 import('./Header.css')
 
 const Header = () => {
+    // header title
     return (
         <div className='border bg-dark text-light w-75 mx-auto text-center mt-3 p-3 rounded-3'>
             <div>
